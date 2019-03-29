@@ -15,7 +15,7 @@ Router.get('/CreateUser', function(req, res) {
   var user = new User({
       _id: new mongoose.Types.ObjectId(),
       userId: "usuario@gmail.com",
-      name: "Adrian Zurita",
+      name: "Stefhany Cordon",
       password: "123456",
       status: "Activo"
   });
