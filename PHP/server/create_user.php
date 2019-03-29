@@ -13,7 +13,7 @@
     $fecha = '1988-05-05';
     $tableName = "user";
     $campos["username"]= "usuario1@gmail.com";
-    $campos["nombre"]= "Adrian Zurita A";
+    $campos["nombre"]= "Stefhany Cordon";
     $campos["password"] = $password;
     $campos["fechaNacimiento"] = $fecha;
 
@@ -57,7 +57,7 @@
     $fecha = '1980-06-06';
     $tableName = "user";
     $campos["username"]= "usuario3@gmail.com";
-    $campos["nombre"]= "Ricardo Perez";
+    $campos["nombre"]= "Adrian Amores";
     $campos["password"] = $password;
     $campos["fechaNacimiento"] = $fecha;
 
